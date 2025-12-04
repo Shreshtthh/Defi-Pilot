@@ -1,0 +1,39 @@
+{
+  "name": "DefiPilot",
+  "version": "1.0.0",
+  "description": "Web3 Research & Execution Agent using ADK-TS",
+  "main": "dist/main.js",
+  "scripts": {
+    "dev": "tsx src/main.ts",
+    "dev:simple": "tsx src/simple-test.ts",
+    "build": "tsc",
+    "server": "nodemon --exec tsx src/server.ts",
+    "start": "tsx src/server.ts",
+    "test": "tsx src/simple-test.ts"
+  },
+  "keywords": [
+    "adk-ts",
+    "web3",
+    "defi",
+    "ai-agent"
+  ],
+  "author": "Shreshth Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "@iqai/adk": "latest",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.0",
+    "express": "^5.1.0",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "@types/node": "^20.0.0",
+    "nodemon": "^3.1.10",
+    "tsx": "^4.19.0",
+    "typescript": "^5.3.0"
+  }
+}
