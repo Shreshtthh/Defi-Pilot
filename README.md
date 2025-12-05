@@ -45,11 +45,10 @@ Result: Deposited in 45 seconds vs 20+ minutes of manual research
 
 ## 🎥 Demo & Live Links
 
-📹 **Demo Video:**
-🌐 **Live App:**   
-🔧 **Backend API:**  
-💻 **GitHub:**  
-📄 **Installation Guide:** 
+📹 **Demo Video:** https://youtu.be/gnlk7WsE9yw
+🌐 **Live App:**   https://defi-pilot.vercel.app/
+🔧 **Backend API:** https://defi-pilot.onrender.com
+💻 **GitHub:** https://github.com/Shreshtthh/Defi-Pilot
 
 ---
 
